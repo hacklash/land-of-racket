@@ -1,0 +1,18 @@
+Common Lisp             Racket Equivalent
+-----------             -----------------
+defparamater
+defvar
+defun
+ash                     arithmetic-shift
+setf                    set!
+1-                      sub1
+1+                      add1
+let
+flet
+labels                  letrec
+eq
+princ                   display (returns void instead of the string)
+'nil                    empty
+car                     car or first
+cdr                     cdr or rest
+if on list              empty? or cons?

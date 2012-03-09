@@ -1,0 +1,6 @@
+Chapter 2
+
+Racket feelings on global variables and naming convention
+! marks most functions that mutate things in Racket
+Racket - bracket, brace, paren equivalence
+let, let*, letrec, let-values
